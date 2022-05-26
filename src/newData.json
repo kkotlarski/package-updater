@@ -1,0 +1,7 @@
+{
+  "name": "new repo name",
+  "version": "1.0.5",
+  "dependencies": {
+    "redoc": "1.22.3"
+  }
+}
